@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Bobthebuilder23456
+- 👀 I’m interested in coding because it just so fun
+- 🌱 I’m currently learning html links and CSS
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+Bobthebuilder23456/Bobthebuilder23456 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
